@@ -13,3 +13,8 @@ Use Qt Desktop Configuration Kit to configure the project.
 Limitations:
 Window size is constant.
 Mute button exists only in the first window.
+
+
+Demo of Application:
+
+https://drive.google.com/file/d/1D08n_k5x9uQhoSmjwLIa7T3tLWYCuwCd/view?usp=sharing
