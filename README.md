@@ -1,4 +1,6 @@
 # PIC10C
+This is the final project for PIC 10C, advanced programming. Topics covered in C++ include: templates, inheritance, function pointers, among others plus additional programming tools (such as git, makefiles, and markdown).
+
 Final Project Arcade Game: PIC LAB MANIA
 
 This desktop application requires Qt Software download.
